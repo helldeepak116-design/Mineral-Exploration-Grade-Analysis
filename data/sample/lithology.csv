@@ -1,0 +1,16 @@
+Hole_ID,From_m,To_m,Lithology,Rock_Description
+BH-001,0,5,LTR,Lateritic overburden
+BH-001,5,20,BHQ,Banded hematite quartzite
+BH-001,20,35,HEM,Hematite ore
+BH-001,35,50,BHJ,Banded hematite jasper
+BH-001,50,60,QTZ,Quartzite
+BH-002,0,4,LTR,Lateritic overburden
+BH-002,4,18,BHQ,Banded hematite quartzite
+BH-002,18,32,HEM,Hematite ore
+BH-002,32,45,BHJ,Banded hematite jasper
+BH-002,45,55,QTZ,Quartzite
+BH-003,0,6,LTR,Lateritic overburden
+BH-003,6,22,BHQ,Banded hematite quartzite
+BH-003,22,42,HEM,Hematite ore
+BH-003,42,55,BHJ,Banded hematite jasper
+BH-003,55,65,QTZ,Quartzite
